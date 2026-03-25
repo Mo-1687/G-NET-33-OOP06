@@ -8,4 +8,12 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <EditorConfigFiles Remove="D:\C#\G-NET-33-OOP06\G-NET-33-OOP06\.editorconfig" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="D:\C#\G-NET-33-OOP06\G-NET-33-OOP06\.editorconfig" />
+  </ItemGroup>
+
 </Project>
